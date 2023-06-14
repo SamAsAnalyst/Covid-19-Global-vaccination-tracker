@@ -11,3 +11,9 @@ Steps
 -Connect to our data
 -Design all the Worksheets
 -Create the final dashboard
+
+Insights on:
+i) What share of population has been partially and fully vaccinated?
+ii)Vaccinated vs Fully Vaccinated by Locations worldwide.
+iii)Vaccinations per hundred of people
+iv)Vaccinations over GPD per hundred
