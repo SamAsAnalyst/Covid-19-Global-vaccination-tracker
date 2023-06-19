@@ -1,4 +1,4 @@
-# Covid-19-Global-vaccination-tracker
+# Covid-19-Global-vaccination-tracker using PowerBi and Tableau
 
 
 - The data source was taken from here [https://ourworldindata.org/covid-vacc...](https://ourworldindata.org/covid-vaccinations)
